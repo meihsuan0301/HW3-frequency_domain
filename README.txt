@@ -3,6 +3,8 @@ https://drive.google.com/file/d/1e2J_3KMxQYu47Sn1x-qQrWz53ZqvB2dr/view?usp=shari
 
 使用UI_Windows說明
 
+注意：在Frequency domain下拉視窗中的操作，因為涉及頻率域的轉換，特徵空間會被更改，所以圖片以彈跳視窗方式展現，且執行完後須重新開啟照片，以進行下一個操作
+
 先點選匯入圖片，再輸入打算執行的轉換的參數，在欄中輸入完參數後，即可點選想要進行的轉換鈕，
 其中參數填寫方式如下：
 
