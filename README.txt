@@ -21,3 +21,15 @@ GaussianBlur：kernel size, sigema (ex 3 , 1.5)
 Averaging Filter：kernel size (ex 5)
 
 Unsharp Maskimg：kernel size, method (ex 3, 'Gaussian_Blur')
+
+add_noise：distribution (ex 0)
+           make the noise by distribution，0：Gaussian, 1：uniform
+
+idea_high_pass_filter：Threshold (ex 50)
+
+Butterworth_high_pass_filter：D, n (ex 50,2)
+
+wiener_filter：noise_r (ex 100)
+
+Guided_Filter：r, eps (ex 1,0.001)
+
